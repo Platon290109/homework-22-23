@@ -1,0 +1,25 @@
+.div{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    z-index: 5;
+}
+.div1{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+.divch{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
